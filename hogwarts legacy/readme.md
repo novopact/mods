@@ -12,10 +12,14 @@ Damit der Charakter wie ein Hauself ausieht muss man folgende Ausrüstung auswä
 3. Schwarze Lederhandschuhe
 4. Nachtgewand des Wahrheitsfinders
 
-![](https://raw.githubusercontent.com/novopact/mods/main/images/hogwars-legacy-elf-mod-frisur.jpg)
-![](https://raw.githubusercontent.com/novopact/mods/main/images/hogwars-legacy-elf-mod-handschuhe.jpg)
-![](https://raw.githubusercontent.com/novopact/mods/main/images/hogwars-legacy-elf-mod-nachtgewand.jpg)
-![](https://raw.githubusercontent.com/novopact/mods/main/images/hogwars-legacy-elf-mod-sklins.jpg)
+
+<img src="https://raw.githubusercontent.com/novopact/mods/main/images/hogwars-legacy-elf-mod-frisur.jpg" width="100px"><br/>
+
+<img src="https://raw.githubusercontent.com/novopact/mods/main/images/hogwars-legacy-elf-mod-handschuhe.jpg" width="100px"><br/>
+
+<img src="https://raw.githubusercontent.com/novopact/mods/main/images/hogwars-legacy-elf-mod-nachtgewand.jpg" width="100px"><br/>
+
+<img src="https://raw.githubusercontent.com/novopact/mods/main/images/hogwars-legacy-elf-mod-sklins.jpg" width="100px">
 
 ## Gun Mod
 von [atomzx](https://www.nexusmods.com/hogwartslegacy/users/10154795)
