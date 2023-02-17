@@ -1,6 +1,7 @@
 # Allgemeine Installation
 
-In dem Verzeichnis `C:\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks` einen neuen Ordner namens `~mods` erstellen.
+1. In dem Verzeichnis `C:\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks` einen neuen Ordner namens `~mods` erstellen.
+2. Dateien aus dem jeweiligen Mod Ordner herunterladen und in `~mods` platzieren.
 
 ## House Elf Mod
 von [Sirgalahad172](https://www.nexusmods.com/hogwartslegacy/users/3032363)
